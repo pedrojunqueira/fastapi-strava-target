@@ -1,0 +1,32 @@
+# Compiled Python files
+*.pyc
+*.pyo
+__pycache__/
+
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+
+# Dependency directories
+venv/
+env/
+env.bak/
+node_modules/
+.venv
+
+# Compiled binaries or executables
+*.exe
+*.dll
+*.so
+*.dylib
+
+# OS or editor-specific files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.sublime-*
+*.swp
