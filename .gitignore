@@ -30,3 +30,7 @@ Thumbs.db
 .vscode/
 *.sublime-*
 *.swp
+
+# pyenv
+
+.python-version
